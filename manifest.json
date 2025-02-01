@@ -32,7 +32,6 @@
     }
   ],
   "background": {
-    "persistent": false,
     "service_worker": "background.js"
   },
   "content_security_policy": {},
